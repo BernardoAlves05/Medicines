@@ -1,0 +1,6 @@
+com\MD\Medicine\Services\DeleteServiceTest.class
+com\MD\Medicine\ControllerTest\ControllerTest.class
+com\MD\Medicine\Services\SaveServiceTest.class
+com\MD\Medicine\Services\SaveServiceTest2.class
+com\MD\Medicine\Services\UpdateServiceTest.class
+com\MD\Medicine\MedicineApplicationTests.class
